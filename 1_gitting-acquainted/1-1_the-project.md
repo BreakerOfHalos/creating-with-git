@@ -8,6 +8,8 @@ Every organization, every team...heck, every person, struggles with documenting 
 
 ## Goals
 
+Memes
+
 When considering a documentation platform, we need it to be:
 
 * Easy to update
